@@ -1,5 +1,4 @@
 {
-  "faturamento": {
   "faturamento": [
     {
       "dia": 1,
@@ -122,6 +121,4 @@
       "valor": 8414.61
     }
   ]
-}
-
 }
